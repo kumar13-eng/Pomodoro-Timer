@@ -1,4 +1,4 @@
 # Pomodoro-Timer
-This is my first Repository.
+This is my first Git Repository.
 <br>
 Author-Pruthviraj Dhange
